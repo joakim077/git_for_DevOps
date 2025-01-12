@@ -91,7 +91,8 @@ git log --no-merge
 
 1. Personal Access Token (PAT)
 2. `git remote set-url origin https://<TOKEN>@github.com`
-3. `git remote set-url origin <SSH-URL>`
+3. `https://<TOKEN>@github.com/<USERNAME>/<REPO>.git'
+4. `git remote set-url origin <SSH-URL>`
 
 ---
 
